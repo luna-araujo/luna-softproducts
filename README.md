@@ -2,4 +2,3 @@
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning the Godot game engine
 - 💞️ I’m looking to collaborate on Godot projects
-- 📫 Reach me at luna_softproducts@pm.me
